@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "426044845240",
+    "firebase_url": "https://music-app-ae021-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "music-app-ae021",
+    "storage_bucket": "music-app-ae021.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426044845240:android:53b608885d8f48cb7ad84d",
+        "android_client_info": {
+          "package_name": "com.ardan.soundclub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiO1bGQUxyhuJTTP_SIsI-vuXEuJrk-mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426044845240:android:d4fda606f3772abe7ad84d",
+        "android_client_info": {
+          "package_name": "com.music.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiO1bGQUxyhuJTTP_SIsI-vuXEuJrk-mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
